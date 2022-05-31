@@ -1,0 +1,1 @@
+define({'/content/newtopic1.htm':{i:[0],t:['NewTopic1'],b:['']}});

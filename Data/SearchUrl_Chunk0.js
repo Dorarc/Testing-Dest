@@ -1,0 +1,1 @@
+define({"../content/newtopic1.htm":0,});

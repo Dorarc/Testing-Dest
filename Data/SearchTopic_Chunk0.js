@@ -1,0 +1,1 @@
+define({"0":{y:0,u:"../content/newtopic1.htm",l:-1,t:"NewTopic1",i:1,a:"NewTopic1 Delete this text and replace it with your own content."},});
